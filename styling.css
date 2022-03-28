@@ -16,10 +16,6 @@ html, body {
     padding: 0;
 }
 
-.a ul {
-  text-decoration: none;
-}
-
 .nav ul {
     margin: 0;
 }
@@ -43,9 +39,11 @@ html, body {
 
 .main-nav- {
     text-align: left;
+    text-decoration: none;
 
 .main-nav li {
     padding: 0 5%;
+    text-decoration: none;
 }
 
 .nav a:hover {
