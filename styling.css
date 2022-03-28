@@ -59,7 +59,11 @@ html, body {
 .main-footer {
     text-align: center;
 }
+.nav-bottom {
+    font-size: 1.1em;
+    font-weight: lighter;
+    border-bottom: 1.5px solid rgba(255, 166, 0, 0.938);
+}
 .nav-bottom li {
-    text-align: center;
     padding: 0 5%;
 }
