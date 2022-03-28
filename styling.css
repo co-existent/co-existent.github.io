@@ -68,3 +68,7 @@ html, body {
 .nav-bottom li {
     padding: 0 5%;
 }
+
+.nav-bottom a:hover {
+    background-color: rgb(255, 94, 0);
+}
