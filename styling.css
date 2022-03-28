@@ -9,7 +9,7 @@
 
 html {
     background-color: rgb(26, 26, 26);
-    text-decoration: none
+    text-decoration: none;
 }
 html, body {
     margin: 0;
@@ -39,7 +39,7 @@ html, body {
 
 .main-nav- {
     text-align: left;
-    text-decoration: none;
+}
 
 .main-nav li {
     padding: 0 5%;
