@@ -74,3 +74,6 @@ html, body {
 .nav-bottom a:hover {
     background-color: rgb(255, 94, 0);
 }
+
+.main-h5 {
+    text-align: left;
