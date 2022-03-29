@@ -77,3 +77,7 @@ html, body {
 
 .main-h5 {
     text-align: left;
+}
+
+.hr {
+    color: rgba(255, 166, 0, 0.938)
