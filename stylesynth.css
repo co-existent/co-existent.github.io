@@ -4,7 +4,7 @@
 * {
     box-sizing: border-box;
     font-family: Ubuntu Mono;
-    color: rgba(170, 177, 180, 0.938)
+    color: rgb(255, 105, 180)
 }
 
 html {
@@ -34,7 +34,7 @@ html, body {
     text-align: center;
     font-size: 1.1em;
     font-weight: lighter;
-    border-bottom: 1.5px solid rgb(104, 219, 156);
+    border-bottom: 1.5px solid rgb(255, 105, 180);
 }
 
 .main-nav li {
